@@ -1,0 +1,256 @@
+{
+  "momos":[
+  {
+    "id": 1,
+    "dish": "Steamed Chicken Momos",
+    "image": "https://example.com/steamed_chicken_momos.jpg",
+    "price": 129,
+    "type": "Non-Vegetarian",
+    "desc": "Delicate dumplings filled with minced chicken, garlic, ginger, and Nepali spices, served with spicy tomato sauce.",
+    "rating": 4.7,
+    "category": "Momos",
+    "restaurant": {
+      "name": "Momos Delight",
+      "address": "123 Dumpling Street, Kathmandu",
+      "timing": "11:00 AM - 10:00 PM",
+      "offers": "10% off on weekdays",
+      "rating": 4.6,
+      "about": "Momos Delight specializes in authentic Nepali momos, offering a variety of flavors and cooking styles."
+    }
+  },
+  {
+    "id": 2,
+    "dish": "Fried Vegetable Momos",
+    "image": "https://example.com/fried_vegetable_momos.jpg",
+    "price": 119,
+    "type": "Vegetarian",
+    "desc": "Crispy dumplings filled with mixed vegetables, seasoned with herbs and spices, served with tangy dipping sauce.",
+    "rating": 4.6,
+    "category": "Momos",
+    "restaurant": {
+      "name": "Vegetarian Momo House",
+      "address": "456 Vegetable Lane, Pokhara",
+      "timing": "12:00 PM - 11:00 PM",
+      "offers": "Free dessert with every momo order",
+      "rating": 4.7,
+      "about": "Vegetarian Momo House specializes in delicious vegetarian momos, perfect for those who prefer meat-free options."
+    }
+  },
+  {
+    "id": 3,
+    "dish": "Paneer Momos",
+    "image": "https://example.com/paneer_momos.jpg",
+    "price": 139,
+    "type": "Vegetarian",
+    "desc": "Soft dumplings filled with paneer (Indian cottage cheese), onions, and aromatic spices, served with mint chutney.",
+    "rating": 4.8,
+    "category": "Momos",
+    "restaurant": {
+      "name": "Paneer Momo Palace",
+      "address": "789 Cheese Street, Lalitpur",
+      "timing": "11:30 AM - 10:00 PM",
+      "offers": "10% off on paneer dishes",
+      "rating": 4.9,
+      "about": "Paneer Momo Palace offers delectable paneer momos, blending traditional flavors with creamy paneer filling."
+    }
+  },
+  {
+    "id": 4,
+    "dish": "Pork Momos",
+    "image": "https://example.com/pork_momos.jpg",
+    "price": 149,
+    "type": "Non-Vegetarian",
+    "desc": "Savory dumplings filled with minced pork, garlic, ginger, and Nepali spices, served steamed or fried.",
+    "rating": 4.7,
+    "category": "Momos",
+    "restaurant": {
+      "name": "Pork Momo Hut",
+      "address": "234 Pork Plaza, Bhaktapur",
+      "timing": "11:00 AM - 10:30 PM",
+      "offers": "15% off on pork dishes",
+      "rating": 4.8,
+      "about": "Pork Momo Hut specializes in authentic pork momos, known for their juicy filling and flavorful seasoning."
+    }
+  },
+  {
+    "id": 5,
+    "dish": "Buff Momos",
+    "image": "https://example.com/buff_momos.jpg",
+    "price": 159,
+    "type": "Non-Vegetarian",
+    "desc": "Hearty dumplings filled with minced buffalo meat, onions, garlic, and traditional Nepali spices, served with spicy sauce.",
+    "rating": 4.6,
+    "category": "Momos",
+    "restaurant": {
+      "name": "Buff Momo Corner",
+      "address": "567 Buffalo Lane, Patan",
+      "timing": "12:00 PM - 10:00 PM",
+      "offers": "Free drink with every buff momo order",
+      "rating": 4.7,
+      "about": "Buff Momo Corner offers flavorful buff momos, perfect for those who enjoy rich and savory dumplings."
+    }
+  },
+  {
+    "id": 6,
+    "dish": "Tandoori Momos",
+    "image": "https://example.com/tandoori_momos.jpg",
+    "price": 169,
+    "type": "Non-Vegetarian",
+    "desc": "Spicy chicken momos marinated in tandoori spices and grilled to perfection, served with mint yogurt sauce.",
+    "rating": 4.8,
+    "category": "Momos",
+    "restaurant": {
+      "name": "Tandoori Momo Express",
+      "address": "890 Tandoor Street, Dharan",
+      "timing": "11:30 AM - 10:00 PM",
+      "offers": "10% off on tandoori momos",
+      "rating": 4.9,
+      "about": "Tandoori Momo Express offers sizzling tandoori momos, combining the flavors of Nepali dumplings with tandoori spices."
+    }
+  },
+  {
+    "id": 7,
+    "dish": "Chocolate Momos",
+    "image": "https://example.com/chocolate_momos.jpg",
+    "price": 139,
+    "type": "Vegetarian",
+    "desc": "Sweet dumplings filled with melted chocolate and nuts, served with a drizzle of chocolate sauce.",
+    "rating": 4.7,
+    "category": "Momos",
+    "restaurant": {
+      "name": "Chocolate Momo Cafe",
+      "address": "123 Chocolate Lane, Bhairahawa",
+      "timing": "11:00 AM - 11:00 PM",
+      "offers": "Free chocolate drink with every chocolate momo",
+      "rating": 4.6,
+      "about": "Chocolate Momo Cafe offers indulgent chocolate momos, perfect for dessert or a sweet snack."
+    }
+  },
+  {
+    "id": 8,
+    "dish": "Jhol Momos",
+    "image": "https://example.com/jhol_momos.jpg",
+    "price": 149,
+    "type": "Non-Vegetarian",
+    "desc": "Tender chicken momos served in a spicy broth with vegetables, garnished with fresh cilantro.",
+    "rating": 4.6,
+    "category": "Momos",
+    "restaurant": {
+      "name": "Jhol Momo Bowl",
+      "address": "234 Broth Avenue, Pokhara",
+      "timing": "11:00 AM - 10:30 PM",
+      "offers": "15% off on jhol momos",
+      "rating": 4.7,
+      "about": "Jhol Momo Bowl offers comforting jhol momos, combining the flavors of dumplings with a spicy broth."
+    }
+  },
+  {
+    "id": 9,
+    "dish": "Spinach and Cheese Momos",
+    "image": "https://example.com/spinach_cheese_momos.jpg",
+    "price": 159,
+    "type": "Vegetarian",
+    "desc": "Delicate dumplings filled with spinach, cheese, and aromatic spices, served steamed or fried with a tangy dip.",
+    "rating": 4.7,
+    "category": "Momos",
+    "restaurant": {
+      "name": "Cheese Spin Momo House",
+      "address": "567 Spinach Plaza, Lalitpur",
+      "timing": "12:00 PM - 10:00 PM",
+      "offers": "Buy 1 get 1 free on cheese momos",
+      "rating": 4.8,
+      "about": "Cheese Spin Momo House offers flavorful spinach and cheese momos, perfect for vegetarian dumpling lovers."
+    }
+  },
+  {
+    "id": 10,
+    "dish": "Chilli Chicken Momos",
+    "image": "https://example.com/chilli_chicken_momos.jpg",
+    "price": 169,
+    "type": "Non-Vegetarian",
+    "desc": "Spicy chicken momos stir-fried with bell peppers, onions, and a tangy chili sauce.",
+    "rating": 4.8,
+    "category": "Momos",
+    "restaurant": {
+      "name": "Chilli Chicken Momo",
+      "address": "890 Chili Lane, Bhaktapur",
+      "timing": "11:30 AM - 10:00 PM",
+      "offers": "10% off on chili momos",
+      "rating": 4.9,
+      "about": "Chilli Chicken Momo offers zesty chili chicken momos, combining the heat of spices with juicy chicken filling."
+    }
+  },
+  {
+    "id": 11,
+    "dish": "Vegetable Steamed Momos",
+    "image": "https://example.com/vegetable_steamed_momos.jpg",
+    "price": 129,
+    "type": "Vegetarian",
+    "desc": "Light and healthy dumplings filled with mixed vegetables, seasoned with Himalayan herbs, served with a tangy tomato chutney.",
+    "rating": 4.5,
+    "category": "Momos",
+    "restaurant": {
+      "name": "Healthy Momo Corner",
+      "address": "789 Vegetable Avenue, Kathmandu",
+      "timing": "10:00 AM - 9:00 PM",
+      "offers": "Free green tea with every order",
+      "rating": 4.4,
+      "about": "Healthy Momo Corner offers nutritious vegetable momos, steamed to perfection, preserving natural flavors and nutrients."
+    }
+  },
+  {
+    "id": 12,
+    "dish": "Corn and Cheese Momos",
+    "image": "https://example.com/corn_cheese_momos.jpg",
+    "price": 139,
+    "type": "Vegetarian",
+    "desc": "Delicious dumplings filled with sweet corn, mozzarella cheese, and a blend of herbs, served steamed or fried.",
+    "rating": 4.6,
+    "category": "Momos",
+    "restaurant": {
+      "name": "Cheesy Corn Momo",
+      "address": "456 Corn Lane, Pokhara",
+      "timing": "11:00 AM - 10:00 PM",
+      "offers": "15% off on cheese momos",
+      "rating": 4.7,
+      "about": "Cheesy Corn Momo offers delightful corn and cheese momos, perfect for those who enjoy a creamy and savory filling."
+    }
+  },
+  {
+    "id": 13,
+    "dish": "Soya Momos",
+    "image": "https://example.com/soya_momos.jpg",
+    "price": 149,
+    "type": "Vegetarian",
+    "desc": "Healthy dumplings filled with soya granules, onions, and aromatic spices, served with mint chutney.",
+    "rating": 4.4,
+    "category": "Momos",
+    "restaurant": {
+      "name": "Soya Delight",
+      "address": "234 Soya Plaza, Lalitpur",
+      "timing": "12:00 PM - 11:00 PM",
+      "offers": "Free dessert with every soya momo order",
+      "rating": 4.5,
+      "about": "Soya Delight specializes in nutritious soya momos, offering a healthy alternative with rich flavors."
+    }
+  },
+  {
+    "id": 14,
+    "dish": "Butter Chicken Momos",
+    "image": "https://example.com/butter_chicken_momos.jpg",
+    "price": 159,
+    "type": "Non-Vegetarian",
+    "desc": "Juicy chicken momos simmered in a creamy butter chicken sauce, garnished with fresh coriander leaves.",
+    "rating": 4.7,
+    "category": "Momos",
+    "restaurant": {
+      "name": "Butter Chicken Momo House",
+      "address": "567 Butter Lane, Bhairahawa",
+      "timing": "11:30 AM - 10:00 PM",
+      "offers": "10% off on butter chicken momos",
+      "rating": 4.8,
+      "about": "Butter Chicken Momo House offers indulgent butter chicken momos, combining the richness of butter chicken with tender momo dumplings."
+    }
+  }
+]
+    }
